@@ -11,11 +11,13 @@ body {
   width: 350px;
   height: 200px;
   float: left;
+  margin-left: 50px;
 }
 .right-part {
   width: 400px;
   height: 300px;
   float: right;
+  margin-right: 50px;
 }
 .form-header {
   background-color: #ffffff;
